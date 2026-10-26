@@ -90,3 +90,6 @@ currently_learning:
 *"Never stop learning. Never stop securing."*
 
 </div>
+<p align="center">
+  © 2026 Shagirov Dair. All rights reserved.
+</p>
