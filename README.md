@@ -1,5 +1,5 @@
 <!-- GitHub Profile README for Shagirov Dair -->
-<!-- Replace YOUR_USERNAME with your exact GitHub username everywhere. -->
+<!-- Replace Crock1337 with your exact GitHub username everywhere. -->
 <!-- Optional: replace TELEGRAM_USERNAME with your Telegram username without @. -->
 
 <div align="center">
